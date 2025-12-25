@@ -45,9 +45,6 @@ This project uses the **OpenWeather API**.
 3. Navigate to **My API Keys**
 4. Copy your API key
 
-### Insert your API key in `weather.js`:
-```javascript
-const apiKey = "YOUR_API_KEY"
 
 ## ▶️ How to Run the Project
 
@@ -102,3 +99,5 @@ If city search fails, check spelling or API status
 Gian
 BS Information Technology Student
 Pangasinan State University – Lingayen
+
+
